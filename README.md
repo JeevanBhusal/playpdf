@@ -1,4 +1,4 @@
-# DocumentBasedQALangChain
+# Play PDF
 
 Let's upload our required data inside the `data` folder.
 
